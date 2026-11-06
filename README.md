@@ -36,6 +36,10 @@ The CSAT Analytics project focuses on analyzing customer satisfaction and call c
 
 To analyze customer satisfaction, identify trends, evaluate call center performance, and generate useful insights through interactive visualizations.
 
+## Dashboard Preview
+
+![CSAT Dashboard](CSAT_Dashboard.png)
+
 ## Conclusion
 
 This project helps understand customer satisfaction levels and supports better decision-making through data analytics.
